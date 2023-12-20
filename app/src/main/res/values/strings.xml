@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MytyyjdjdjD</string>
+    <string name="title_home">Home</string>
+    <string name="testing">Setting</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="balance_label">Баланс: $%s</string>
+    <string name="income_label">Доход в секунду: $%s</string>
+    <string name="timer_placeholder">00:00:00</string>
+    <string name="bonus_button1_text">Получить бонус 1 ($1200)</string>
+    <string name="bonus_button2_text">Получить бонус 2 ($12000)</string>
+    <string name="balance_amount">Balance: %d$</string>
+    <string name="bonus_amount">%d$</string>
+</resources>
